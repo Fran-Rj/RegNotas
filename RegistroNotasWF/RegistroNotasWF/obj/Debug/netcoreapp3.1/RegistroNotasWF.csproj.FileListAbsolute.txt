@@ -1,0 +1,16 @@
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\bin\Debug\netcoreapp3.1\RegistroNotasWF.exe
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\bin\Debug\netcoreapp3.1\RegistroNotasWF.deps.json
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\bin\Debug\netcoreapp3.1\RegistroNotasWF.runtimeconfig.json
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\bin\Debug\netcoreapp3.1\RegistroNotasWF.runtimeconfig.dev.json
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\bin\Debug\netcoreapp3.1\RegistroNotasWF.dll
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\bin\Debug\netcoreapp3.1\RegistroNotasWF.pdb
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.Form1.resources
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.AssemblyInfo.cs
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.dll
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.pdb
+C:\Users\ALUMNO\Downloads\Program II\RegistroNotasWF\RegistroNotasWF\obj\Debug\netcoreapp3.1\RegistroNotasWF.genruntimeconfig.cache
